@@ -1,30 +1,40 @@
-# 📄 Curriculum Vitae - Muhammad Dayyan Ghazanfar Latief
-> **Student | Aspiring AI & Machine Learning Engineer**
+# MUHAMMAD DAYYAN GHAZANFAR LATIEF
+**AI Engineering Student @ ITS | Multidisciplinary Developer**
 
-![Profile View](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen)
-![Field](https://img.shields.io/badge/Field-Computer_Science-blue)
-![Last Updated](https://img.shields.io/badge/Last_Updated-March_2026-orange)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-8B7355?style=flat-square&logo=google-chrome&logoColor=white)](https://ghazanfarlatief.blogspot.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghazanfar-latief-286a89340)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=flat-square&logo=itch.io)](https://zhan01.itch.io/)
+
+> I bridge the gap between complex algorithms and interactive design. From training machine learning models and crafting game mechanics to building functional web applications, I deliver complete digital solutions that turn logic into engaging experiences.
+
+---
+
+### ⚙️ TECH STACK & ARSENAL
+
+| **Discipline** | **Technologies & Tools** |
+| :--- | :--- |
+| **🤖 AI & Machine Learning** | Python, TensorFlow / Keras, Scikit-learn, Pandas, NumPy |
+| **🎮 Game Development** | Construct 3, Godot 4, Pygame |
+| **🌐 Web & Database** | HTML, CSS, JavaScript, SQL, MySQL |
+| **🛠️ Version Control & Env** | Git, GitHub, VSCode |
 
 ---
 
-## 👨‍💻 Tentang Saya
-Halo! Saya adalah seorang mahasiswa Rekayasa Kecerdasan Artifisial yang memiliki gairah besar dalam pengembangan teknologi. Saya senang memecahkan masalah kompleks melalui algoritma yang efisien dan desain yang sistematis.
+### 🚀 FEATURED PROJECTS
+
+* **[Sandikala Kos](https://sandikala-kos.vercel.app/)** — *Web Development*
+  A functional web application for boarding house management, handling tenant records, payments, and real-time room availability.
+* **Auto-Labeling Query Relevance** — *Machine Learning*
+  A semantic search and relevance model for Indonesian Quranic verses, engineered using single and ensemble learning approaches.
+* **Pasar Cuan** — *Game Development*
+  A market management simulation game built with Godot 4, focusing on strategic resource allocation and engaging mechanics.
+* **Py-Fighter** — *Game Development*
+  A 2D arcade fighting game built entirely with Python and Pygame, featuring health mechanics, sprite animations, and local multiplayer logic.
+* **3D Top-Down Game** — *Game Development*
+  An early-access 3D adventure project demonstrating spatial logic and mechanic integration in Construct 3.
 
 ---
-## 🛠️ Keahlian Teknis
-* **Languages:** Python (AI/ML & OOP), HTML/CSS.
-* **Frameworks:** Pygame, Scikit-learn, TensorFlow, Pandas, NumPy.
-* **Tools:** Github, VSCode, MySQL, Canva, Construct3
 
-## 🏆 Proyek Unggulan
-* **Py-Fighter:** Game fighting 2D berbasis Pygame.
-* **Semantic Search:** Mesin pencari ayat Al-Quran menggunakan Ensemble Learning.
-* **Sandikala Kos:** Pelatihan agen cerdas pada lingkungan *CarRacing*.
-* **Berie's Adventure Seaside:** Game platformer 2D berbasis Construct3
+### 🧠 CURRENT FOCUS
+Continuously refining my workflow across **Applied AI**, **Game Mechanics**, and **Full-Stack Logic**. I actively turn technical blind spots into strengths by building structured, functional solutions rather than just following tutorials.
 
-## 📬 Kontak
-* **GitHub:** [github.com/Apasijannn](https://github.com/Apasijannn)
-* **Email:** [ghazanfarlatief6@gmail.com](mailto:ghazanfarlatief6@gmail.com)
-* **LinkedIn:** [linkedin.com/in/ghazanfar-latief](www.linkedin.com/in/ghazanfar-latief)
-
----
+📫 **Reach out for collaborations:** [ghazanfarlatief6@gmail.com](mailto:ghazanfarlatief6@gmail.com)
