@@ -15,11 +15,6 @@
 
 <br>
 
-```javascript
-// Turning complex logic into functional digital experiences —
-// from training ML models and engineering game mechanics
-// to shipping full-stack web apps.
-```
 
 </div>
 
