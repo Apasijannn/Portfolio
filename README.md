@@ -3,7 +3,7 @@
 ### Muhammad Dayyan Ghazanfar Latief
 **`AI Engineering · Game Mechanics · Web Apps`**
 
-*Multidisciplinary developer @ Institut Teknologi Sepuluh Nopember*
+*Student @ Institut Teknologi Sepuluh Nopember*
 
 <br>
 
